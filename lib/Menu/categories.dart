@@ -38,7 +38,7 @@ class _CategoriesState extends State<Categories> {
               width: MediaQuery.of(context).size.width,
             ),
             Padding(
-              padding: EdgeInsets.only(left: 20, right: 20, top: 100),
+              padding: EdgeInsets.only(left: 20, right: 20, top: 50),
               child: Column(children: <Widget>[
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
